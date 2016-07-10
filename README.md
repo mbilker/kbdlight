@@ -1,7 +1,7 @@
 Kbdlight
 ========
 
-kbdlight is very simple application that changes MacBooks' keyboard
+This kbdlight fork is a very simple application that changes ASUS' keyboard
 backlight level.
 
 While usable standalone, the main goal is for it to be used by other
